@@ -1,0 +1,30 @@
+body{
+    font-family: 'Mukta', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.back{
+    background-image: url(images/donate-1.jpg);
+    background-repeat: no-repeat;
+    background: cover;
+}
+.help{ padding-right:400px;
+    padding-left: 400px;
+    padding-top: 100px;
+text-align: center;
+height: 400px;}
+.help h1{font-weight: 900;
+font-size:xx-large;}
+.link-button{
+    text-decoration:none ;
+    color:white;
+    padding: 10px 40px;
+    background-image: linear-gradient(red,orange);
+    font-weight: 400;
+    border-radius: 5px;
+}
+
+
+   
+    
+
+
