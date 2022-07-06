@@ -1,6 +1,7 @@
 body{
     font-family: 'Mukta', sans-serif;
 font-family: 'Poppins', sans-serif;
+margin: 0;
 }
 .back{
     background-image: url(images/donate-1.jpg);
@@ -21,7 +22,39 @@ font-size:xx-large;}
     background-image: linear-gradient(red,orange);
     font-weight: 400;
     border-radius: 5px;
+    margin-top: 500px;
 }
+.middle{
+    text-align: center;
+    padding-right:400px;
+    padding-left: 400px;
+    padding-top: 100px;
+    margin: 40px 0px 40px 0px ;
+}
+.balance{display: flex;
+text-align: center;}
+.amount{
+    box-shadow: 5px 5px 5px;
+    margin-top:40px ;
+    margin-bottom:40px ;
+}
+.same-balance{border: 2px solid red;
+padding-left: 10px;
+padding-right: 10px;
+height: 50px;
+width: 50px;
+margin-left:10px ;
+margin-right:10px ;
+background-color: antiquewhite;}
+.different-balance{border: 2px solid gray;
+    padding-left: 10px;
+    padding-right:10px ;
+    margin-left:10px ;
+    margin-right:10px ;
+background-color: bisque;
+
+}
+
 
 
    
