@@ -41,19 +41,72 @@ text-align: center;}
 .same-balance{border: 2px solid red;
 padding-left: 10px;
 padding-right: 10px;
-height: 50px;
-width: 50px;
+padding-top: 10px;
 margin-left:10px ;
 margin-right:10px ;
+height: 60px;
 background-color: antiquewhite;}
-.different-balance{border: 2px solid gray;
-    padding-left: 10px;
-    padding-right:10px ;
+.different-balance{
+    padding: 10px;
     margin-left:10px ;
     margin-right:10px ;
+    height: 50px;
 background-color: bisque;
 
 }
+.food{padding-right:10px;
+    padding-left:10px;
+    padding-top: 30px;
+    padding-bottom:10px ;
+    margin: 20px 20px 20px 20px ;
+    width: 30%;
+    background-color: aliceblue;
+    font-size: small;
+}
+.shelter{padding-right:10px;
+    padding-left:10px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin: 20px 20px 20px 20px ;
+    width: 30%;
+    background-color: pink;
+    font-size: small;
+
+}
+
+.education{padding-right:10px;
+    padding-left:10px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin: 20px 20px 20px 20px ;
+    width: 30%;
+    background-color: burlywood;
+    font-size: small;
+
+}
+.plan{display: flex;
+    margin-left:200px ;
+    margin-right:200px ;
+}
+.contribute{padding-right:50px;
+    padding-left:50px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    
+    width: 50%;
+    font-size: small;
+}
+.contribute h1{font-size:xx-large ;
+
+}
+.depend{
+    display: flex;
+    margin: 20px 100px 20px 100px ;   
+}
+.contribute img{width: 70%;
+}
+
+
 
 
 
