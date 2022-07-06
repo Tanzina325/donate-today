@@ -34,10 +34,16 @@ font-size:xx-large;}
 .balance{display: flex;
 text-align: center;}
 .amount{
-    box-shadow: 5px 5px 5px;
+
     margin-top:40px ;
     margin-bottom:40px ;
 }
+input[type=text]{
+    box-sizing: border-box;
+    border:none;
+    border-bottom: 3px solid black;
+    width:100%;
+text-align: center;}
 .same-balance{border: 2px solid red;
 padding-left: 10px;
 padding-right: 10px;
