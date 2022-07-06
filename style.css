@@ -105,6 +105,39 @@ background-color: bisque;
 }
 .contribute img{width: 70%;
 }
+input[type=email]{
+    box-sizing: border-box;
+    padding:10px;
+    background-color: gainsboro;
+    color: brown;
+}
+    input[type=submit]{
+    padding:10px;
+        background-color: red;
+        color:white;
+}
+.type{background-color: cornsilk;
+padding: 20px;}
+footer h1{font-family: 'Lobster', cursive;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'The Nautigal', cursive;
+font-size: xx-large;
+font-weight: 900;
+color: red;}
+footer{ padding-right:400px;
+    padding-left: 400px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+text-align: center;
+height: 100px;
+background-color: black;}
+footer small{
+    color: white;
+}
+
+
+    
 
 
 
