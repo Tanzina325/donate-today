@@ -118,7 +118,7 @@ input[type=email]{
     color: brown;
     margin-right: -6px;
 }
-    input[type=button]{
+    input[type=submit]{
     padding:10px;
         background-color: red;
         color:white;
